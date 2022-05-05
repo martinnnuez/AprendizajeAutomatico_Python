@@ -1,1 +1,2 @@
-# AprendizajeAutomatico_Python
+# Aprendizaje Automatico en Python
+Aplicaciones practicas.
